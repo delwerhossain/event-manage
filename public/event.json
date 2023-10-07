@@ -1,0 +1,54 @@
+
+
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/jfLwYPj/wedding.jpg",
+        "name": "Wedding Celebration",
+        "details": "A wedding celebration is a profoundly elegant union of hearts, adorned with love, joy, and cherished moments. It transcends the boundaries of ordinary life, transforming a simple ceremony into a grand spectacle of romance and commitment. The air is imbued with the fragrance of blossoming flowers, and the venue resonates with the melody of happiness. Every detail, from the intricately designed invitations to the exquisite floral arrangements, speaks volumes about the couple's love story. The exchange of vows becomes a symphony of promises, weaving dreams into reality. The atmosphere is filled with the tender caress of love, promising a lifelong journey of togetherness."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/qsqb1Qj/birthday.jpg",
+        "name": "Birthday Bash",
+        "details": "A birthday bash is a jubilant festivity, celebrating yet another year of a person's existence with boundless laughter, delectable cakes, and delightful surprises. It is a day when time stands still, and the individual is the center of the universe, surrounded by the warmth of friends and family. The air crackles with the excitement of unwrapping gifts, and the room echoes with cheerful laughter. Each candle on the cake represents a cherished memory, and every smile shared becomes a testament to a life well-lived. It is a moment to reflect on the past, celebrate the present, and eagerly anticipate the future."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/VMZwvG6/reception.jpg",
+        "name": "Reception Party",
+        "details": "A reception party is a grandiose affair, offering a warm and heartfelt welcome to newlyweds. The venue sparkles with the promise of new beginnings, and the air is filled with the intoxicating aroma of delectable cuisine. As the couple makes their grand entrance, the room erupts in applause, and the night comes alive with music and dance. Every corner is adorned with love, from the carefully crafted centerpieces to the elegant drapery that adorns the walls. It is a celebration of love's triumph, a night where memories are etched into the hearts of all attendees, and the spirit of togetherness reigns supreme."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Vwy4hQd/engagement.jpg",
+        "name": "Engagement Ceremony",
+        "details": "An engagement ceremony is a poignant moment, a threshold where promises are exchanged, marking the beginning of a beautiful journey together. The atmosphere is charged with the electricity of newfound love, and the couple's eyes speak volumes, expressing emotions that words fail to capture. Rings exchanged become symbols of eternity, and the pledges made are etched into the very fabric of the universe. It is a ceremony that unites not just two souls but also two families, forging bonds that withstand the test of time. The rituals performed are laden with meaning, and every glance exchanged is a silent vow, promising unwavering support and endless love."
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/5TkkZD1/babyshower.jpg",
+        "name": "Baby Shower",
+        "details": "A baby shower is a heartwarming celebration, anticipating the arrival of new life with boundless love, playful games, and adorable baby-themed decorations. The room is adorned with pastel hues and whimsical designs, creating an atmosphere that mirrors the innocence of the soon-to-arrive bundle of joy. Guests gather, their hearts brimming with excitement, to shower the expectant parents with blessings and heartfelt advice. Games are played, laughter fills the air, and each gift unwrapped is a promise of a nurturing environment for the baby. It is a day where the miracle of life is celebrated in all its glory, weaving dreams of a bright future for the little one."
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/gJDJBXw/decoration.jpg",
+        "name": "Anniversary Gala",
+        "details": "An anniversary gala is a splendid tribute, celebrating years of togetherness with an aura of romance, the renewal of vows, and a tapestry of joyful memories. The venue is transformed into a haven of love, where every decoration whispers tales of shared experiences and enduring commitment. The couple, dressed in their finest, takes a poignant journey down memory lane, reliving the precious moments that have defined their relationship. Vows are renewed, not merely as words but as profound promises etched into the very essence of their being. Each glance exchanged speaks of years of understanding, and every dance step taken is a celebration of the harmonious dance of their hearts. It is an evening where time stands still, and love takes center stage, reminding everyone present of the timeless beauty of a love that has weathered every storm, emerging stronger and more beautiful than ever before."
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
