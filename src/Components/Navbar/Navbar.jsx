@@ -17,13 +17,13 @@ const Navbar = () => {
         </li>
       )}
       <li>
-        <NavLink to={"/OurTeam"}>Our Team</NavLink>
+        <NavLink to={"/bookmark"}>My Bookmarks</NavLink>
       </li>
       <li>
         <NavLink to={"/WorkProgress"}>Work Progress</NavLink>
       </li>
       <li>
-        <NavLink to={"/About"}>About Us</NavLink>
+        <NavLink to={"/about"}>About Us</NavLink>
       </li>
     </>
   );
