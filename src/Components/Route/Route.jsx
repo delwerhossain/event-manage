@@ -10,6 +10,7 @@ import PrivateRoute from "../PrivateRoute/PrivateRoute";
 import SingleService from "../Services/SingleService";
 import Services from "../Services/Services";
 import BookmarkService from "../Services/BookmarkService";
+import WorkProgress from "../WorkProgress/WorkProgress";
 
 const route = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ const route = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+      },
+      {
+        path: "/progress",
+        element: <WorkProgress></WorkProgress>,
       },
       {
         path: "/services/:id",
