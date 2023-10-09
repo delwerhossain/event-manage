@@ -20,7 +20,7 @@ const Navbar = () => {
         <NavLink to={"/bookmark"}>My Bookmarks</NavLink>
       </li>
       <li>
-        <NavLink to={"/WorkProgress"}>Work Progress</NavLink>
+        <NavLink to={"/progress"}>Work Progress</NavLink>
       </li>
       <li>
         <NavLink to={"/about"}>About Us</NavLink>
@@ -58,7 +58,7 @@ const Navbar = () => {
         <img className="w-1/6" src={logo} alt="" />
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">{navlink}</ul>
+        <ul className="menu menu-horizontal  gap-6 px-1">{navlink}</ul>
       </div>
 
       <div className="navbar-end">
