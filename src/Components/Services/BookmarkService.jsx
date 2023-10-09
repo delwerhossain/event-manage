@@ -5,7 +5,7 @@ import ServiceDetails from "./ServiceDetails";
 const BookmarkService = () => {
   const ids = JSON.parse(localStorage.getItem("data"));
   const [data, setData] = useState([]);
-  console.log(data);
+  // console.log(data);
   useEffect(() => {
     // Use Array.filter() to filter the main data based on the IDs in the 'ids' array
     if (ids) {

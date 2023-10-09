@@ -1,6 +1,11 @@
 const About = () => {
   return (
-    <div className="bg-gray-100">
+    <div
+      data-aos="fade-up"
+      data-aos-delay="100"
+      data-aos-duration="2000"
+      className="bg-gray-100"
+    >
       <div className="container mx-auto py-8">
         <div className="grid justify-center px-4">
           <div className="">
@@ -121,7 +126,12 @@ const About = () => {
                   </p>
                 </div>
                 <p className="mt-2">
-                  As a seasoned social event manager, I have had the privilege of organizing and overseeing a wide range of events, from elegant weddings to lively birthday parties. My goal is to make each event unique and tailored to the preferences of my clients, ensuring that every detail is meticulously planned and executed to perfection.
+                  As a seasoned social event manager, I have had the privilege
+                  of organizing and overseeing a wide range of events, from
+                  elegant weddings to lively birthday parties. My goal is to
+                  make each event unique and tailored to the preferences of my
+                  clients, ensuring that every detail is meticulously planned
+                  and executed to perfection.
                 </p>
               </div>
               <div className="mb-6">
@@ -136,7 +146,12 @@ const About = () => {
                   </p>
                 </div>
                 <p className="mt-2">
-                  As a seasoned social event manager, I have had the privilege of organizing and overseeing a wide range of events, from elegant weddings to lively birthday parties. My goal is to make each event unique and tailored to the preferences of my clients, ensuring that every detail is meticulously planned and executed to perfection.
+                  As a seasoned social event manager, I have had the privilege
+                  of organizing and overseeing a wide range of events, from
+                  elegant weddings to lively birthday parties. My goal is to
+                  make each event unique and tailored to the preferences of my
+                  clients, ensuring that every detail is meticulously planned
+                  and executed to perfection.
                 </p>
               </div>
               <div className="mb-6">
@@ -151,7 +166,12 @@ const About = () => {
                   </p>
                 </div>
                 <p className="mt-2">
-                  As a seasoned social event manager, I have had the privilege of organizing and overseeing a wide range of events, from elegant weddings to lively birthday parties. My goal is to make each event unique and tailored to the preferences of my clients, ensuring that every detail is meticulously planned and executed to perfection.
+                  As a seasoned social event manager, I have had the privilege
+                  of organizing and overseeing a wide range of events, from
+                  elegant weddings to lively birthday parties. My goal is to
+                  make each event unique and tailored to the preferences of my
+                  clients, ensuring that every detail is meticulously planned
+                  and executed to perfection.
                 </p>
               </div>
             </div>

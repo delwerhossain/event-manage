@@ -9,7 +9,12 @@ const WorkProgress = () => {
   };
 
   return (
-    <div>
+    <div
+      className="w-6/12 mx-auto"
+      data-aos="fade-up"
+      data-aos-delay="100"
+      data-aos-duration="2000"
+    >
       <BarChart data={data} />
     </div>
   );

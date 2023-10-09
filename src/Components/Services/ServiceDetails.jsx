@@ -8,13 +8,22 @@ const ServiceDetails = ({ single, service, addData }) => {
   const { id, name, img, details } = service;
 
   return (
-    <div className="mr-5 mb-8">
+    <div
+      data-aos="fade-up"
+      data-aos-delay="100"
+      data-aos-duration="2000"
+      className="mr-5 mb-8"
+    >
       <div
         className={`bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 ${
           single ? "mx-auto max-w-7xl" : "max-w-sm"
         }`}
       >
-        <img className="h-72 rounded-t-lg" src={img} alt="" />
+        <img
+          className={`${single ? "w-full" : " h-72"} rounded-t-lg`}
+          src={img}
+          alt=""
+        />
 
         <div className="p-5">
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
