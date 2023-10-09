@@ -16,7 +16,7 @@ const BookmarkService = () => {
 if (ids) {
     
     return (
-      <div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4  mx-auto xl:w-10/12 xl:my-10 my-6 justify-center items-center  ">
+      <div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4  mx-auto xl:w-10/12 xl:my-10 my-6 justify-center  ">
         {data.map((service) => (
           <ServiceDetails key={service.id} service={service}></ServiceDetails>
         ))}

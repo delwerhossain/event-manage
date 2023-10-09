@@ -36,7 +36,7 @@ const Services = () => {
   //   console.log(services);
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4  mx-auto xl:w-10/12 xl:my-10 my-6 justify-center items-center  ">
+    <div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4  mx-auto xl:w-10/12 xl:my-10 my-6 justify-center   ">
       {services.map((service) => (
         <ServiceDetails
           addData={addData}
